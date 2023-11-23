@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         func test() {
             print("ho-ho-ho")
         }
+
+        func test_2() {
+            print("ho-ho-ho_2")
+        }
     }
 
 
