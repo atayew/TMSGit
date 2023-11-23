@@ -18,6 +18,14 @@ class ViewController: UIViewController {
         func test_2() {
             print("ho-ho-ho_2")
         }
+        
+        func test3() {
+            print("ho-ho-ho_3")
+        }
+        
+        func test4() {
+            print("ho-ho-ho_4")
+        }
     }
 
 
